@@ -1,0 +1,28 @@
+{
+  "name": "apple_cypress",
+  "version": "1.0.0",
+  "description": "Test Apple Website Using Cypress Automation Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run.headed": "cypress run --headed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedmoheyeldin/Apple_Cypress.git"
+  },
+  "author": "Mohamed Moheyeldin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedmoheyeldin/Apple_Cypress/issues"
+  },
+  "homepage": "https://github.com/mohamedmoheyeldin/Apple_Cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  },
+  "dependencies": {
+    "cypress-mochawesome-reporter": "^3.5.1"
+  }
+}

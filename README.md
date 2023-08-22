@@ -1,8 +1,16 @@
 # Front-end automation for Apple using Cypress testing tool
 
-[Apple](https://www.apple.com/)
+### [Apple Website](https://www.apple.com/)
 
-[Cypress](https://www.cypress.io/)
+### [Cypress Website](https://www.cypress.io/)
+
+
+
+## Description
+
+## Usage
+
+
 
 
 [![CodeQL](https://github.com/mohamedmoheyeldin/Apple_Cypress/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/mohamedmoheyeldin/Apple_Cypress/actions/workflows/github-code-scanning/codeql)

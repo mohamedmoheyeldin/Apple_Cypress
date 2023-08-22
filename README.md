@@ -13,11 +13,6 @@
 
 
 
-[![CodeQL](https://github.com/mohamedmoheyeldin/Apple_Cypress/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/mohamedmoheyeldin/Apple_Cypress/actions/workflows/github-code-scanning/codeql)
-
-
-
-
 [![Cypress Tests](https://github.com/mohamedmoheyeldin/tesla_cypress/actions/workflows/cypress.yml/badge.svg)](https://github.com/mohamedmoheyeldin/tesla_cypress/actions/workflows/cypress.yml)
 
 

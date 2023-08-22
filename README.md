@@ -5,7 +5,7 @@
 [Cypress](https://www.cypress.io/)
 
 
-[![CodeQL](https://github.com/mohamedmoheyeldin/Apple_Cypress/actions/workflows/codeql.yml/badge.svg)](https://github.com/mohamedmoheyeldin/Apple_Cypress/actions/workflows/codeql.yml)
+[![CodeQL](https://github.com/mohamedmoheyeldin/Apple_Cypress/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/mohamedmoheyeldin/Apple_Cypress/actions/workflows/github-code-scanning/codeql)
 
 
 

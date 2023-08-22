@@ -10,7 +10,7 @@
 
 
 
-[![SonarCloud Status](https://sonarcloud.io/api/project_badges/measure?project=mohamedmoheyeldin_Apple_Cypress&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mohamedmoheyeldin_Apple_Cypress)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mohamedmoheyeldin_Apple_Cypress)](https://sonarcloud.io/summary/new_code?id=mohamedmoheyeldin_Apple_Cypress)
 
 
 

@@ -5,6 +5,11 @@
 [Cypress](https://www.cypress.io/)
 
 
+[![CodeQL](https://github.com/mohamedmoheyeldin/Apple_Cypress/actions/workflows/codeql.yml/badge.svg)](https://github.com/mohamedmoheyeldin/Apple_Cypress/actions/workflows/codeql.yml)
+
+
+
+
 [![Cypress Tests](https://github.com/mohamedmoheyeldin/tesla_cypress/actions/workflows/cypress.yml/badge.svg)](https://github.com/mohamedmoheyeldin/tesla_cypress/actions/workflows/cypress.yml)
 
 

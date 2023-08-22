@@ -19,3 +19,8 @@
 
 
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mohamedmoheyeldin_Apple_Cypress)](https://sonarcloud.io/summary/new_code?id=mohamedmoheyeldin_Apple_Cypress)
+
+
+
+
+

@@ -9,9 +9,7 @@
 
 
 
-
-[![SonarSource](https://github.com/mohamedmoheyeldin/Apple_Cypress/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/mohamedmoheyeldin/Apple_Cypress/actions/workflows/sonarcloud.yml)
-
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mohamedmoheyeldin_Apple_Cypress)](https://sonarcloud.io/summary/new_code?id=mohamedmoheyeldin_Apple_Cypress)
 
 
 

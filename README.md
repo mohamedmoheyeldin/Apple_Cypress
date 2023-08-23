@@ -1,4 +1,4 @@
-# Front-end automation for Apple using Cypress testing tool
+# Front-End automation for Apple using Cypress testing tool
 
 ### [Apple Website](https://www.apple.com/)
 

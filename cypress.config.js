@@ -19,7 +19,7 @@ module.exports = defineConfig({
         setupNodeEvents(on, config) {
             require('cypress-mochawesome-reporter/plugin')(on);
         },
-        baseUrl: 'https://www.tesla.com/',
+        baseUrl: 'https://www.apple.com/',
         viewportHeight: 1080,
         viewportWidth: 1920,
         retries: 1,

@@ -21,3 +21,4 @@ jobs:
         with:
           name: Cypress HTML Report
           path: cypress/reports/html
+          

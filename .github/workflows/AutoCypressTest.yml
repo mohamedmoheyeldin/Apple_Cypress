@@ -12,11 +12,6 @@ jobs:
         uses: cypress-io/github-action@v5
       - uses: actions/upload-artifact@v3
         continue-on-error: true
-        if: failure()
-        with:
-            name: cypress-screenshots
-            path: ./cypress/screenshots
-      - uses: actions/upload-artifact@v3
         if: always()
         with:
           name: Cypress HTML Report
